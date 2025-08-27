@@ -1,5 +1,5 @@
 For Debian-Based operating system 
-   cd ~project
+   cd /project
 1. sudo apt install python3-venv
 2. python3 -m venv venv
 3. source venv/bin/activate
